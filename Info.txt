@@ -1,0 +1,41 @@
+Raspberry Pi 0/W Power HAT
+Cool looking Power supply board for raspberry pi 0 or 0W.
+
+Lipo powered USB-C based charging system and power supply.
+
+
+
+Features:
+Cost effective design
+Upto 3.8 Amps of current Draw
+5V regulated supply at Power GPIO of raspberry Pi
+USB-C Charging port
+Lipo 3.7V compatible
+500mA charging current
+Toggle Switch for power On-Off
+On Board boost regulator for 3.7V to 5V regulated output
+
+
+Dimensions:
+ 65 mm by 30 mm
+4 mounting holes for M2.5 screws
+
+
+Technical Specs:
+Size:65mm x 30mm
+Signal Layers:2
+None Signal Layers:10
+Components:24
+Pads:111
+ Surface Pads:67
+ Plated Through-hole Pads:44
+ None Plated Through-hole Pads:0
+Holes:6
+Vias:10
+Nets:15/15
+Length of Tracks:441.13mm
+Copper Areas:2
+
+
+Open Source Design:
+All the source files are available on Github.
